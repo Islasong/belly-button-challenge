@@ -223,6 +223,7 @@ function Horizontalbar(sample) {
         Horizontalbar(value);
         bubbleChart(value);
         metadata(value);
+        gaugeChart(value);
     
     };
     
